@@ -1,3 +1,3 @@
 # Secure-File-Transfer
 
-Secure file transfer using AES 256 bit encryption
+Secure file transfer using AES 256 bit encryption written in python
